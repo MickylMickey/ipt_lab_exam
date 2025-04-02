@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jon Mickyl\\source\\repos\\ipt_lab_exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D65CE0FE-CEA0-4328-A163-EC3728C6434F}|ipt_lab_exam\\ipt_lab_exam.csproj|c:\\users\\jon mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\studentpage_individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65CE0FE-CEA0-4328-A163-EC3728C6434F}|ipt_lab_exam\\ipt_lab_exam.csproj|solutionrelative:ipt_lab_exam\\studentpage_individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65CE0FE-CEA0-4328-A163-EC3728C6434F}|ipt_lab_exam\\ipt_lab_exam.csproj|c:\\users\\jon mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\student_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65CE0FE-CEA0-4328-A163-EC3728C6434F}|ipt_lab_exam\\ipt_lab_exam.csproj|solutionrelative:ipt_lab_exam\\student_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65CE0FE-CEA0-4328-A163-EC3728C6434F}|ipt_lab_exam\\ipt_lab_exam.csproj|c:\\users\\jon mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\student_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D65CE0FE-CEA0-4328-A163-EC3728C6434F}|ipt_lab_exam\\ipt_lab_exam.csproj|solutionrelative:ipt_lab_exam\\student_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65CE0FE-CEA0-4328-A163-EC3728C6434F}|ipt_lab_exam\\ipt_lab_exam.csproj|c:\\users\\jon mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\studentpage_individual.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65CE0FE-CEA0-4328-A163-EC3728C6434F}|ipt_lab_exam\\ipt_lab_exam.csproj|solutionrelative:ipt_lab_exam\\studentpage_individual.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65CE0FE-CEA0-4328-A163-EC3728C6434F}|ipt_lab_exam\\ipt_lab_exam.csproj|c:\\users\\jon mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\student_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65CE0FE-CEA0-4328-A163-EC3728C6434F}|ipt_lab_exam\\ipt_lab_exam.csproj|solutionrelative:ipt_lab_exam\\student_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65CE0FE-CEA0-4328-A163-EC3728C6434F}|ipt_lab_exam\\ipt_lab_exam.csproj|c:\\users\\jon mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\studentpage_individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D65CE0FE-CEA0-4328-A163-EC3728C6434F}|ipt_lab_exam\\ipt_lab_exam.csproj|solutionrelative:ipt_lab_exam\\studentpage_individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jon Mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\Student_Page.cs",
+              "RelativeDocumentMoniker": "ipt_lab_exam\\Student_Page.cs",
+              "ToolTip": "C:\\Users\\Jon Mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\Student_Page.cs [Design]",
+              "RelativeToolTip": "ipt_lab_exam\\Student_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:13:10.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentPage_Individual.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jon Mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\StudentPage_Individual.Designer.cs",
+              "RelativeDocumentMoniker": "ipt_lab_exam\\StudentPage_Individual.Designer.cs",
+              "ToolTip": "C:\\Users\\Jon Mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\StudentPage_Individual.Designer.cs",
+              "RelativeToolTip": "ipt_lab_exam\\StudentPage_Individual.Designer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:11:09.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentPage_Individual.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jon Mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\StudentPage_Individual.cs",
+              "RelativeDocumentMoniker": "ipt_lab_exam\\StudentPage_Individual.cs",
+              "ToolTip": "C:\\Users\\Jon Mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\StudentPage_Individual.cs [Design]",
+              "RelativeToolTip": "ipt_lab_exam\\StudentPage_Individual.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:11:31.808Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student_Page.cs",
+              "DocumentMoniker": "C:\\Users\\Jon Mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\Student_Page.cs",
+              "RelativeDocumentMoniker": "ipt_lab_exam\\Student_Page.cs",
+              "ToolTip": "C:\\Users\\Jon Mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\Student_Page.cs",
+              "RelativeToolTip": "ipt_lab_exam\\Student_Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:10:14.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student_Page.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jon Mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\Student_Page.Designer.cs",
+              "RelativeDocumentMoniker": "ipt_lab_exam\\Student_Page.Designer.cs",
+              "ToolTip": "C:\\Users\\Jon Mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\Student_Page.Designer.cs",
+              "RelativeToolTip": "ipt_lab_exam\\Student_Page.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:48:25.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentPage_Individual.cs",
+              "DocumentMoniker": "C:\\Users\\Jon Mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\StudentPage_Individual.cs",
+              "RelativeDocumentMoniker": "ipt_lab_exam\\StudentPage_Individual.cs",
+              "ToolTip": "C:\\Users\\Jon Mickyl\\source\\repos\\ipt_lab_exam\\ipt_lab_exam\\StudentPage_Individual.cs",
+              "RelativeToolTip": "ipt_lab_exam\\StudentPage_Individual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:42:41.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
